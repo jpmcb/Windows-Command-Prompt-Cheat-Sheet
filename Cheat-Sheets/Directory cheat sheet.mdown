@@ -1,0 +1,22 @@
+# Cheat Sheet
+
+### dir
+
+```
+C:\User\FooUser> **dir**
+
+Volume in drive C has no label.
+Volume Serial Number is 0123-ABCD
+
+Directory of C:\User
+
+01/01/2017	12:00 AM 	<DIR>		Documents
+01/01/2017	12:00 AM 			123	my Foo Bar.doc
+
+				1 File(s) 		123 bytes
+				5 Dir(s)  	32,551,940,096 bytes free
+```
+
+Returns a list of files and directories in the current directory. States number of files and number of directories. 
+
+ 
