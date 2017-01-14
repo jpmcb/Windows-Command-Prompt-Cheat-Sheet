@@ -1,9 +1,19 @@
 # Cheat Sheet
 
-### dir
+### DEL
 
 ```
-C:\User\FooUser> **dir**
+C:\User\FooUser> del
+
+
+```
+
+__________________________________
+
+### DIR
+
+```
+C:\User\FooUser> dir
 
 Volume in drive C has no label.
 Volume Serial Number is 0123-ABCD
@@ -19,4 +29,24 @@ Directory of C:\User
 
 Returns a list of files and directories in the current directory. States number of files and number of directories. 
 
- 
+____________________________________
+
+### HELP
+
+```
+C:\User\FooUser> help
+
+``` 
+
+Returns a list of common command prompt commands and their descriptions
+
+____________________________________
+
+### SYSTEMINFO
+
+```
+C:\ > systeminfo
+
+```
+
+Returns a list of information on the machines basic information including installed processors, network cards, and memory in use.
