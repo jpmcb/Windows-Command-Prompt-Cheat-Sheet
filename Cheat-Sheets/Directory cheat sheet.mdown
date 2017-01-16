@@ -42,6 +42,16 @@ Returns a list of common command prompt commands and their descriptions
 
 ____________________________________
 
+### SHUTDOWN
+
+```
+C:\ > shutdown
+```
+
+Allows for local or remote shutdown of machine
+
+_____________________________________
+
 ### SYSTEMINFO
 
 ```
