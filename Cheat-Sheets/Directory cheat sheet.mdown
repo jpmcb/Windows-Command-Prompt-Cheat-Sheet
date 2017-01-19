@@ -60,3 +60,15 @@ C:\ > systeminfo
 ```
 
 Returns a list of information on the machines basic information including installed processors, network cards, and memory in use.
+
+____________________________________
+
+### VER
+
+```
+C:\ > ver
+```
+
+Displays current opperating system and version
+
+_____________________________________
