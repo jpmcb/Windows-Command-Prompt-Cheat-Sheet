@@ -31,6 +31,16 @@ Returns a list of files and directories in the current directory. States number 
 
 ____________________________________
 
+### FIND
+
+```
+C:\User\FooUser> find "Joe" names.txt
+```
+
+Returns the line(s) with the given text string
+
+_____________________________________
+
 ### HELP
 
 ```
