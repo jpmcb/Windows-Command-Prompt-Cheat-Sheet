@@ -1,5 +1,13 @@
 # Cheat Sheet
 
+### CD
+
+```
+C:\User> cd FooUser
+```
+
+Will direct the prompt to the given folder within the root directory. This code will place the prompt in the FooUser directory within the User directory.
+ 
 ### DEL
 
 ```
